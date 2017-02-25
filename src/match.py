@@ -1,4 +1,4 @@
-from Set import Set
+from .set import Set
 
 class Match(object):
 

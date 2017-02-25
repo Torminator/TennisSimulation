@@ -1,5 +1,5 @@
-from Game import Game
-from TieBreak import TieBreak
+from .game import Game
+from .tiebreak import TieBreak
 
 class Set(object):
 

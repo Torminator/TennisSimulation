@@ -1,5 +1,5 @@
-from TennisPlayer import Player
-from Match import Match
+from src.tennisplayer import Player
+from src.match import Match
 
 # creating the vector to describe the skills of the players
 # no empirical evidence, just toy numbers

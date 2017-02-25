@@ -1,4 +1,4 @@
-from Play import Play
+from .play import Play
 
 class TieBreak(object):
 
